@@ -59,8 +59,6 @@
 
 - **Steps to Start the Project Once Everything is Installed**
 
-- **Monitoring**
-
 
 - **Final Reflection**
 
@@ -177,25 +175,6 @@ In my case, I navigate to the grove folder. To do this, I open the terminal and 
 <a name="_k4kt4baxzpsj"></a>**Final Reflection**
 
 In conclusion, our project to illuminate the Bilbao riverbanks through sensor-triggered lights has been an enlightening journey. The integration of technology to create a responsive and energy-efficient lighting system brought forth a novel perspective on urban design. Despite facing challenges such as time constraints, the experience deepened our understanding of collaborative work, project management, and the impactful fusion of technology with environmental enhancements. Moving forward, we carry valuable lessons on efficiency, planning, and the potential of innovative solutions to contribute positively to urban spaces.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
